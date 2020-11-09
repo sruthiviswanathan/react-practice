@@ -1,0 +1,10 @@
+.userName {
+    border: 1px solid #eee;
+    box-shadow: 0px 2px 3px 0px solid #ccc;
+    padding: 22px;
+    margin: 20px;
+}
+
+input[type=text] {
+    height: 25px;
+}
